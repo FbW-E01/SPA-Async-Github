@@ -15,9 +15,7 @@ Create a webpage to find repositories from a given github username. In the webpa
 
 ### Rules
 
--   This is an individual assignment.
--   Deadline: 3 hours.
-
+-   This is an individual assignment
 
 
 
